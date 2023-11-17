@@ -6,3 +6,7 @@ def index(request):
 
 def query(request):
     return render(request,'employee/Query.html')
+
+
+def employee_details(request):
+    return render(request,'employee/Employee_details.html')

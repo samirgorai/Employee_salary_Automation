@@ -1,0 +1,15 @@
+.home_button{ 
+    background-color: springgreen;
+    width:200px;
+    border:1px solid black;
+    border-radius: 20%;
+    font-size:30px ;
+        
+}
+
+div>a{
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    position:relative;
+    left: 30px;
+}
